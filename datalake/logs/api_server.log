@@ -1,0 +1,34 @@
+2024-04-06 07:41:21,954:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:41:21,954:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:41:21,959:INFO: * Restarting with stat
+2024-04-06 07:41:25,013:WARNING: * Debugger is active!
+2024-04-06 07:41:25,023:INFO: * Debugger PIN: 101-094-255
+2024-04-06 08:14:20,275:INFO: * Detected change in 'D:\\Personal\\Universidad\\Postgrado\\Unal\\Materias\\5_Producto_de_Datos\\taller-presencial-WilsonG1976\\src\\6b_api_server\\client_.py', reloading
+2024-04-06 08:14:20,377:INFO: * Restarting with stat
+2024-04-06 08:14:24,630:WARNING: * Debugger is active!
+2024-04-06 08:14:24,640:INFO: * Debugger PIN: 101-094-255
+2024-04-06 08:20:12,297:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:20:12,297:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:20:12,301:INFO: * Restarting with stat
+2024-04-06 08:20:15,206:WARNING: * Debugger is active!
+2024-04-06 08:20:15,214:INFO: * Debugger PIN: 101-094-255
+2024-04-06 08:24:58,188:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:24:58,188:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:24:58,192:INFO: * Restarting with stat
+2024-04-06 08:25:02,051:WARNING: * Debugger is active!
+2024-04-06 08:25:02,059:INFO: * Debugger PIN: 101-094-255
+2024-04-06 08:59:50,853:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:59:50,853:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:59:50,860:INFO: * Restarting with stat
+2024-04-06 08:59:54,063:WARNING: * Debugger is active!
+2024-04-06 08:59:54,069:INFO: * Debugger PIN: 101-094-255
+2024-04-06 09:30:35,209:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 09:30:35,210:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:30:35,214:INFO: * Restarting with stat
+2024-04-06 09:30:37,938:WARNING: * Debugger is active!
+2024-04-06 09:30:37,945:INFO: * Debugger PIN: 101-094-255

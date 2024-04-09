@@ -1,0 +1,15 @@
+2024-03-23 11:59:16,709:INFO:Starting the application
+2024-03-23 11:59:16,988:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:59:16,988:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:59:16,992:INFO: * Restarting with stat
+2024-03-23 11:59:19,904:INFO:Starting the application
+2024-03-23 11:59:19,923:WARNING: * Debugger is active!
+2024-03-23 11:59:19,929:INFO: * Debugger PIN: 101-094-255
+2024-03-23 12:02:15,624:INFO:127.0.0.1 - - [23/Mar/2024 12:02:15] "GET / HTTP/1.1" 200 -
+2024-03-23 12:02:16,059:INFO:127.0.0.1 - - [23/Mar/2024 12:02:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-23 12:04:23,193:INFO: * Detected change in 'd:\\Personal\\Universidad\\Postgrado\\Unal\\Materias\\5_Producto_de_Datos\\taller-presencial-WilsonG1976\\src\\5_basic_web_app\\app.py', reloading
+2024-03-23 12:04:23,269:INFO: * Restarting with stat
+2024-03-23 12:04:25,892:INFO:Starting the application
+2024-03-23 12:04:25,907:WARNING: * Debugger is active!
+2024-03-23 12:04:25,913:INFO: * Debugger PIN: 101-094-255
